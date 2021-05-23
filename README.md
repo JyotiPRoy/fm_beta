@@ -15,7 +15,7 @@ This ia a File Manager Application for Android built using flutter.
   <img src="https://github.com/JyotiPRoy/fm_beta/blob/master/Screenshots/ss5.jpg" width="216" height="480">
 </p>  
 
-### Demo Video: [Google Drive Link](https://drive.google.com/file/d/1Q64_uAn4CDVenr6dyS3vJPI7HImBiZlU/view?usp=sharing)
+## Video Demo: [Google Drive Link](https://drive.google.com/file/d/1Q64_uAn4CDVenr6dyS3vJPI7HImBiZlU/view?usp=sharing)
 
 ## Upcoming Features
 I've planned to add multi-tab functionality, with which the user can open multiple folders in different tabs and manage files between them (copy, paste etc.).
